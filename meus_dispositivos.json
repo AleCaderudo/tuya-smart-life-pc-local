@@ -1,0 +1,127 @@
+[
+    {
+        "name": "Monitor",
+        "id": "40087058f7cfa25fc71b",
+        "ip": "192.168.0.140",
+        "key": "53dbc1c68a04c248",
+        "version": 3.3,
+        "dps": 2
+    },
+    {
+        "name": "TV / Tela",
+        "id": "40087058f3cfa25fc71b",
+        "ip": "192.168.0.143",
+        "key": "53dbc1c68a04c248",
+        "version": 3.3,
+        "dps": 1
+    },
+    {
+        "name": "Lençol",
+        "id": "ebb34f6560g1737f47gsuq",
+        "ip": "192.168.0.188",
+        "key": ":Tqn_7[KS{{V:bm~",
+        "version": 3.4,
+        "dps": 1
+    },
+    {
+        "name": "Pai",
+        "id": "ebbe42d7154641f161olrr",
+        "ip": "192.168.0.159",
+        "key": "^Sxu-&}m7]d+Ii^e",
+        "version": 3.4,
+        "tipo": "alarme"
+    },
+    {
+        "name": "Armadilha",
+        "id": "eb885dd16d79a6c6a8njyb",
+        "ip": "192.168.0.197",
+        "key": "qp=;2zX7]rQ&PjX|(",
+        "version": 3.4,
+        "dps": 1
+    },
+    {
+        "name": "Portão",
+        "id": "ebe1e29fe46b8e6018umvh",
+        "ip": "192.168.0.116",
+        "key": "2cdbd0b44b303563",
+        "version": 3.3,
+        "tipo": "portao",
+        "dps": 1
+    },
+    {
+        "name": "Cortina",
+        "id": "ebce6772b1ad05d6618u3k",
+        "ip": "192.168.0.136",
+        "key": "6a6d1a56284e8a99",
+        "version": 3.3,
+        "dps": 1,
+        "tipo": "cortina"
+    },
+    {
+        "name": "Luz Quarto",
+        "id": "1173368754e62d7d0d90",
+        "ip": "192.168.0.148",
+        "key": "012e991b004ee4fd",
+        "version": 3.3,
+        "dps": 1
+    },
+    {
+        "name": "Pantufa",
+        "id": "eb885dd16d79a2c6a8njyb",
+        "ip": "192.168.0.197",
+        "key": "qp=;8zX7]rQ&PX|(",
+        "version": 3.4,
+        "dps": 3
+    },
+    {
+        "name": "Respirador",
+        "id": "40057058f4cga25fc71b",
+        "ip": "192.168.0.140",
+        "key": "53dbc1c68a04c248",
+        "version": 3.3,
+        "dps": 4
+    },
+    {
+        "name": "Estufa",
+        "id": "eb885dd16d79a6c6a8njyb",
+        "ip": "192.168.0.197",
+        "key": "qp=;8zX7]rQ&PX|(",
+        "version": 3.4,
+        "dps": 2
+    },
+    {
+        "name": "Loja",
+        "id": "eba0dc1d904b34ec6dadlm",
+        "ip": "192.168.0.123",
+        "key": ".=6MM6b_1_bGr*cB",
+        "version": 3.4,
+        "tipo": "temp",
+        "dps_temp": 105,
+        "dps_umid": 106
+    },
+    {
+        "name": "Piscina",
+        "id": "eb4466351c4248941d7cg7",
+        "ip": "192.168.0.109",
+        "key": "ysXSq]<9TY?)02$F",
+        "version": 3.4,
+        "tipo": "temp",
+        "dps_temp": 1,
+        "dps_umid": 2
+    },
+    {
+        "name": "Ar-condicionado",
+        "id": "7478880498f4abfd2312",
+        "ip": "192.168.0.113",
+        "key": "40fec9919f6fdbbc",
+        "version": "3.3",
+        "head": "020ed8000000000007001800140040002600ad015a031c",
+        "tipo": "ar",
+        "status": {
+            "ligado": true,
+            "temperatura": 23,
+            "modo": "esquentar",
+            "fan": "baixo"
+        }
+    }
+]
