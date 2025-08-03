@@ -1,7 +1,7 @@
 
 # Tuya Smart-life PC Local
 
-Este projeto é uma solução local (offline) em Python com interface gráfica para controle de dispositivos inteligentes Tuya usando a biblioteca `tinytuya`. Ele permite o controle completo de dispositivos via rede LAN, sem depender da nuvem Tuya.
+Este projeto é uma solução local (offline) em Python com interface gráfica para controle de dispositivos inteligentes Tuya usando a biblioteca `[TinyTuya](https://github.com/jasonacox/tinytuya)`. Ele permite o controle completo de dispositivos via rede LAN, sem depender da nuvem Tuya diretamente do seu computador com Windows sem a necessidade de uso de emuladores ou qualquer tipo de virtualização.
 
 ![Interface](offline.jpg)
 
