@@ -1,56 +1,39 @@
 [
     {
         "name": "Monitor",
-        "id": "40087058f7cfa25fc71b",
+        "id": "20087058fcfa25fc71b",
         "ip": "192.168.0.140",
-        "key": "53dbc1c68a04c248",
+        "key": "63dbc1c68a04c248",
         "version": 3.3,
         "dps": 2
     },
     {
         "name": "TV / Tela",
-        "id": "40087058f3cfa25fc71b",
-        "ip": "192.168.0.143",
-        "key": "53dbc1c68a04c248",
+        "id": "20087058fcfa25fc71b",
+        "ip": "192.168.0.140",
+        "key": "63dbc1c68a04c248",
         "version": 3.3,
         "dps": 1
     },
     {
         "name": "Lençol",
-        "id": "ebb34f6560g1737f47gsuq",
-        "ip": "192.168.0.188",
-        "key": ":Tqn_7[KS{{V:bm~",
+        "id": "ebb34f620a1737f47gsuq",
+        "ip": "192.168.0.187",
+        "key": ":Tqn_7[KS{{V:am~",
         "version": 3.4,
         "dps": 1
     },
     {
         "name": "Pai",
-        "id": "ebbe42d7154641f161olrr",
+        "id": "ebbe42d715461f161olrr",
         "ip": "192.168.0.159",
-        "key": "^Sxu-&}m7]d+Ii^e",
+        "key": "^Sxu-&}k7]d+Ii^e",
         "version": 3.4,
         "tipo": "alarme"
     },
     {
-        "name": "Armadilha",
-        "id": "eb885dd16d79a6c6a8njyb",
-        "ip": "192.168.0.197",
-        "key": "qp=;2zX7]rQ&PjX|(",
-        "version": 3.4,
-        "dps": 1
-    },
-    {
-        "name": "Portão",
-        "id": "ebe1e29fe46b8e6018umvh",
-        "ip": "192.168.0.116",
-        "key": "2cdbd0b44b303563",
-        "version": 3.3,
-        "tipo": "portao",
-        "dps": 1
-    },
-    {
         "name": "Cortina",
-        "id": "ebce6772b1ad05d6618u3k",
+        "id": "ebce67721ad05d6618u3k",
         "ip": "192.168.0.136",
         "key": "6a6d1a56284e8a99",
         "version": 3.3,
@@ -58,42 +41,68 @@
         "tipo": "cortina"
     },
     {
+        "name": "Respirador",
+        "id": "20087058f4ca25fc71b",
+        "ip": "192.168.0.140",
+        "key": "63dbc1c68a04c248",
+        "version": 3.3,
+        "dps": 4
+    },
+    {
+        "name": "Pantufa",
+        "id": "eb885dd16d9a6c6a8njya",
+        "ip": "192.168.0.198",
+        "key": "qp=;8zX7]rQ&PX|(",
+        "version": 3.4,
+        "dps": 3
+    },
+    {
         "name": "Luz Quarto",
-        "id": "1173368754e62d7d0d90",
+        "id": "117336874e62d7d0d90",
         "ip": "192.168.0.148",
         "key": "012e991b004ee4fd",
         "version": 3.3,
         "dps": 1
     },
     {
-        "name": "Pantufa",
-        "id": "eb885dd16d79a2c6a8njyb",
-        "ip": "192.168.0.197",
-        "key": "qp=;8zX7]rQ&PX|(",
-        "version": 3.4,
-        "dps": 3
-    },
-    {
-        "name": "Respirador",
-        "id": "40057058f4cga25fc71b",
-        "ip": "192.168.0.140",
-        "key": "53dbc1c68a04c248",
+        "name": "Automático",
+        "id": "260070700039f33bb78",
+        "ip": "192.168.0.182",
+        "key": "66a51e45a2157718",
         "version": 3.3,
-        "dps": 4
+        "dps": 1
     },
     {
-        "name": "Estufa",
-        "id": "eb885dd16d79a6c6a8njyb",
-        "ip": "192.168.0.197",
-        "key": "qp=;8zX7]rQ&PX|(",
-        "version": 3.4,
+        "name": "Portão",
+        "id": "ebe1e29fe468e6018umvh",
+        "ip": "192.168.0.115",
+        "key": "2cdbd0b44b303563",
+        "version": 3.3,
+        "tipo": "portao",
+        "dps": 1
+    },
+    {
+        "name": "Manual",
+        "id": "260070700039f33bb78",
+        "ip": "192.168.0.182",
+        "key": "66a51e45a2157718",
+        "version": 3.3,
         "dps": 2
     },
     {
+        "name": "Restart",
+        "id": "ebeb4682b862d8540h1os",
+        "ip": "192.168.0.179",
+        "key": "3[wBE0f<5:/EHnBG",
+        "version": 3.3,
+        "dps": 1,
+        "tipo": "restart"
+    },
+    {
         "name": "Loja",
-        "id": "eba0dc1d904b34ec6dadlm",
-        "ip": "192.168.0.123",
-        "key": ".=6MM6b_1_bGr*cB",
+        "id": "eba0dc1d9fb34ec6dadln",
+        "ip": "192.168.0.125",
+        "key": ":9o`DDN+For))j4j",
         "version": 3.4,
         "tipo": "temp",
         "dps_temp": 105,
@@ -101,27 +110,43 @@
     },
     {
         "name": "Piscina",
-        "id": "eb4466351c4248941d7cg7",
-        "ip": "192.168.0.109",
-        "key": "ysXSq]<9TY?)02$F",
+        "id": "ebce725b1b52faacan1gk",
+        "ip": "192.168.0.110",
+        "key": "?WV.Vv.=rJ`.V$`=",
         "version": 3.4,
         "tipo": "temp",
         "dps_temp": 1,
         "dps_umid": 2
     },
     {
+        "id": "eb0e1ad772e57841dkef4",
+        "name": "Quarto",
+        "tipo": "temp_lan",
+        "ip": "192.168.0.185",
+        "key": "F@NIZyuncG^xrGVr",
+        "version": 3.2
+    },
+    {
+        "id": "eb6366ce881b128eb5hpj",
+        "name": "Banheiro",
+        "tipo": "temp_lan",
+        "ip": "192.168.0.131",
+        "key": "w0PQZ9/h<q~L{<r~",
+        "version": 3.4
+    },
+    {
         "name": "Ar-condicionado",
-        "id": "7478880498f4abfd2312",
+        "id": "7478880498f4abfd1111",
         "ip": "192.168.0.113",
-        "key": "40fec9919f6fdbbc",
+        "key": "40fec99196b5bbd",
         "version": "3.3",
-        "head": "020ed8000000000007001800140040002600ad015a031c",
+        "head": "010ed800000000000700170040015e00af030a06140026",
         "tipo": "ar",
         "status": {
             "ligado": true,
             "temperatura": 23,
             "modo": "esquentar",
-            "fan": "baixo"
+            "fan": "medio"
         }
     }
 ]
