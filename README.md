@@ -1,7 +1,7 @@
 
 # Tuya Smart-life PC Local
 
-<strong>Versão 2.0:</strong><br><br>
+<strong>Versão 2.0:</strong><br>
   Implementei, os termostatos que utilizam pilha e se conectam de modo diferente a rede, separei os comandos do ar condicionado em um novo arquivo para o codigo ficar menor e mais legivel. Retirei a parte de scaneamento de IPs pois mais atrapalhava que ajudava.
 
 Este projeto é uma solução local (offline) em Python com interface gráfica para controle de dispositivos inteligentes Tuya usando a biblioteca [TinyTuya](https://github.com/jasonacox/tinytuya). Ele permite o controle completo de dispositivos via rede LAN, sem depender da nuvem Tuya diretamente do seu computador com Windows sem a necessidade de uso de emuladores ou qualquer tipo de virtualização.
