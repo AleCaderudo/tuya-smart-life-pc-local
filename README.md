@@ -78,9 +78,6 @@ Se algum dispositivo mudar de IP, o programa detecta automaticamente e oferece u
 - O sistema armazena o último status de uso localmente.
 - O botão "Desligar TV + PC" pode ser personalizado para desligar qualquer dispositivo + o próprio computador.
 
-## 📄 Licença
-
-Distribuído sob a licença MIT. Veja `LICENSE` para mais detalhes.
 
 ## 👨‍💻 Desenvolvido por
 
